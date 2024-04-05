@@ -1,0 +1,65 @@
+{
+	"storyName": "flippy main week",
+	"freeplayString": "og",
+	"difficulties": "",
+	"artsDifferent": false,
+	"weekBackground": "MainBG",
+	"hideFreeplay": false,
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Triggered",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"og"
+		],
+		[
+			"Slaughter",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"bloody"
+		],
+		[
+			"Overkill",
+			"flippy-crazy",
+			[
+				146,
+				113,
+				253
+			],
+			"insane"
+		],
+		[
+			"Fallout",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"fearful"
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "flippy week",
+	"hiddenUntilUnlocked": false
+}

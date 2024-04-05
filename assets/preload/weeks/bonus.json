@@ -1,0 +1,115 @@
+{
+	"songs": [
+		[
+			"Extinction",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"alt"
+		],
+		[
+			"Playdate",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"og"
+		],
+		[
+			"Fliphardy",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"og"
+		],
+		[
+			"Real",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"og"
+		],
+		[
+			"Unseized",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"og"
+		],
+		[
+			"LSD",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"og"
+		],
+		[
+			"Tags",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"og"
+		],
+		[
+			"Disclosed",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"bloody"
+		],
+		[
+			"Unhinged",
+			"flippy-crazy",
+			[
+				146,
+				113,
+				253
+			],
+			"insane"
+		]
+	],
+	"artsDifferent": false,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "MainBG",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"freeplayString": "og",
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

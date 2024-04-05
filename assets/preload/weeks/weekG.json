@@ -1,0 +1,65 @@
+{
+	"songs": [
+		[
+			"Triggered Guerrilla",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"og"
+		],
+		[
+			"Slaughter Guerrilla",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"bloody"
+		],
+		[
+			"Overkill Guerrilla",
+			"flippy-crazy",
+			[
+				146,
+				113,
+				253
+			],
+			"insane"
+		],
+		[
+			"Fallout Guerrilla",
+			"flippy",
+			[
+				146,
+				113,
+				253
+			],
+			"fearful"
+		]
+	],
+	"artsDifferent": false,
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "lol",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"freeplayString": "og",
+	"storyName": "guerila",
+	"weekName": "Guerrilla Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
