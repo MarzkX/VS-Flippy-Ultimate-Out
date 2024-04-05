@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_gamejolt.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gamejolt basic0000" x="5" y="5" width="626" height="180"/>
+	<SubTexture name="gamejolt basic0001" x="5" y="5" width="626" height="180"/>
+	<SubTexture name="gamejolt basic0002" x="5" y="190" width="626" height="180"/>
+	<SubTexture name="gamejolt basic0003" x="5" y="190" width="626" height="180"/>
+	<SubTexture name="gamejolt basic0004" x="5" y="375" width="626" height="180"/>
+	<SubTexture name="gamejolt basic0005" x="5" y="375" width="626" height="180"/>
+	<SubTexture name="gamejolt white0000" x="5" y="560" width="626" height="180" frameX="0" frameY="0" frameWidth="627" frameHeight="180"/>
+	<SubTexture name="gamejolt white0001" x="5" y="745" width="627" height="180"/>
+	<SubTexture name="gamejolt white0002" x="5" y="930" width="627" height="180"/>
+</TextureAtlas>

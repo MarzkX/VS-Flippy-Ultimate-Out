@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crazy.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="150" height="150"/>
+	<SubTexture name="idle0001" x="150" y="0" width="150" height="150"/>
+	<SubTexture name="idle0002" x="300" y="0" width="150" height="150"/>
+	<SubTexture name="idle0003" x="450" y="0" width="150" height="150"/>
+	<SubTexture name="loss0000" x="0" y="150" width="150" height="150"/>
+	<SubTexture name="win0000" x="150" y="150" width="156" height="156" frameX="0" frameY="0" frameWidth="157" frameHeight="156"/>
+	<SubTexture name="win0001" x="306" y="150" width="156" height="156" frameX="0" frameY="0" frameWidth="157" frameHeight="156"/>
+	<SubTexture name="win0002" x="462" y="150" width="151" height="151" frameX="-3" frameY="-3" frameWidth="157" frameHeight="156"/>
+	<SubTexture name="win0003" x="0" y="306" width="156" height="150" frameX="-1" frameY="-3" frameWidth="157" frameHeight="156"/>
+	<SubTexture name="win0004" x="156" y="306" width="153" height="150" frameX="-2" frameY="-3" frameWidth="157" frameHeight="156"/>
+</TextureAtlas>

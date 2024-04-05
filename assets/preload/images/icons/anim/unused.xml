@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="unused.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf-idle0000" x="0" y="278" width="136" height="80"/>
+	<SubTexture name="bf-idle0001" x="0" y="278" width="136" height="80"/>
+	<SubTexture name="bf-idle0002" x="0" y="618" width="135" height="80" frameX="-1" frameY="0" frameWidth="136" frameHeight="80"/>
+	<SubTexture name="bf-idle0003" x="0" y="703" width="135" height="80" frameX="-1" frameY="0" frameWidth="136" frameHeight="80"/>
+	<SubTexture name="bf-idle0004" x="0" y="363" width="136" height="80"/>
+	<SubTexture name="bf-idle0005" x="0" y="448" width="136" height="80"/>
+	<SubTexture name="bf-lose0000" x="0" y="0" width="137" height="88"/>
+	<SubTexture name="bf-lose0001" x="0" y="186" width="137" height="87" frameX="0" frameY="0" frameWidth="137" frameHeight="88"/>
+	<SubTexture name="bf-lose0002" x="0" y="93" width="137" height="88"/>
+	<SubTexture name="bf-won0000" x="0" y="533" width="136" height="80"/>
+	<SubTexture name="bf-won0001" x="0" y="533" width="136" height="80"/>
+	<SubTexture name="bf-won0002" x="0" y="788" width="136" height="79" frameX="0" frameY="0" frameWidth="136" frameHeight="80"/>
+	<SubTexture name="bf-won0003" x="0" y="788" width="136" height="79" frameX="0" frameY="0" frameWidth="136" frameHeight="80"/>
+</TextureAtlas>
