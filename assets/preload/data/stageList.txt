@@ -1,0 +1,11 @@
+stage
+camp
+blood
+blood-old
+fire
+burnt
+camp-alt
+treehouse
+kapow
+alleyway
+discord
